@@ -1,41 +1,36 @@
-## Yolo! It's me Shubham👋
+[![MasterHead](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-a-web-developer.jpg)]
+<h1 align="center">Hi 👋, I'm Shubham Pandey</h1>
+<h3 align="center">Competitive Programming and Web Development Enthusiastic</h3>
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-shubham01&label=Profile%20views&color=0e75b6&style=flat" alt="dev-shubham01" /> </p>
 
-<img src="https://media.giphy.com/media/zWHvoItO4JWn7pkC4W/source.gif" width="300" align='right'>
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-shubham01" alt="dev-shubham01" /></a> </p>
 
-- 🔭 I’m a final year student at IIITV pursuing Computer Science.
-- 💬 I do competitive programming using C++.
-- ⚡ Fun fact: Other than programming, I love watching anime and playing FPS games.
+- 🔭 I’m currently working on **Data Structure And Algorithms**
 
+- 🌱 I’m currently learning **Competitive Programming**
 
-<br/>
+- 👯 I’m looking to collaborate on **Web Development**
 
+- 🤝 I’m looking for help with **Internships**
 
-## Languages and Tools:
+- 👨‍💻 All of my projects are available at [https://shubham-p01.netlify.app/](https://shubham-p01.netlify.app/)
 
-<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  />
-<img align="left" alt="expressjs" width="26px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"  />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+- 📫 How to reach me **mr.pshubham@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubham-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-pandey" height="30" width="40" /></a>
+<a href="https://fb.com/shubham pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham pandey" height="30" width="40" /></a>
+<a href="https://instagram.com/__shubham__p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shubham__p" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pandey_shubham01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pandey_shubham01" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<br/>
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-shubham01&show_icons=true&locale=en&layout=compact" alt="dev-shubham01" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-shubham01&show_icons=true&locale=en" alt="dev-shubham01" /></p>
 
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=dev-shubham01&count_private=false&show_icons=true&theme=synthwave&include_all_commits=true)
- -->
-![My github stats](https://github-readme-stats.vercel.app/api?username=dev-shubham01&count_private=true&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dev-shubham01&theme=dark&background=0B3F52)](https://git.io/streak-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shubham01)
-<br/>
-<br/>
-
-
-
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dev-shubham01.dev-shubham01)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shubham01&" alt="dev-shubham01" /></p>
