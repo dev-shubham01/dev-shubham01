@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Internships**
 
-- 👨‍💻 All of my projects are available at [https://shubham-p01.netlify.app/] **Portfolio**
+- 👨‍💻 All of my projects are available at **Portfolio**(https://shubham-p01.netlify.app/)
 
 - 📫 How to reach me **mr.pshubham@gmail.com**
 
