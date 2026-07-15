@@ -9,7 +9,6 @@
 - 🤝 Open to full-stack / senior engineering opportunities
 - 👨‍💻 Portfolio: [shubham-p01.netlify.app](https://shubham-p01.netlify.app/)
 - 📫 Reach me at **mr.pshubham@gmail.com**
-
 ### Featured Projects
 - 🔍 **[WebHealth](https://web-health-eta.vercel.app/)** — Full-stack website health auditing platform (React, Node/Express, Lighthouse, security scanning)
 
